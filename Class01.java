@@ -16,7 +16,7 @@ class Cbbb extends Caaa {// 子類別 Cbbb 繼承自 Caaa
         System.out.println("num2: " + num2); // 顯示 num2 的值
     }
 }
-public class Main {
+public class Class01 {
     public static void main(String args[]) {
         Cbbb bb = new Cbbb(); // 建立子類別 Cbbb 的物件
         bb.set_numO(5, 10); // 設定 num1 和 num2 的值
