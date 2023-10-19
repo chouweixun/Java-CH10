@@ -18,7 +18,7 @@ class Cbbb extends Caaa { // 子類別 Cbbb 繼承自 Caaa
         super(); // 呼叫父類別 Caaa 的無引數建構元，設定num1和num2
     }
 }
-public class Main {
+public class Class13 {
     public static void main(String args[]) {
         Caaa aaa1 = new Caaa(); // 1.無引數建構元
         System.out.println("aaa1.num1: " + aaa1.num1);
